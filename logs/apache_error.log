@@ -1,0 +1,130 @@
+[Tue Nov 24 12:10:51.897637 2020] [mpm_winnt:notice] [pid 3976:tid 400] AH00455: Apache/2.4.41 (Win64) PHP/7.3.12 configured -- resuming normal operations
+[Tue Nov 24 12:10:51.897637 2020] [mpm_winnt:notice] [pid 3976:tid 400] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Nov 24 12:10:51.897637 2020] [core:notice] [pid 3976:tid 400] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.41\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.41'
+[Tue Nov 24 12:10:51.897637 2020] [mpm_winnt:notice] [pid 3976:tid 400] AH00418: Parent: Created child process 3480
+[Tue Nov 24 12:10:52.225762 2020] [mpm_winnt:notice] [pid 3480:tid 336] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 24 12:51:26.253613 2020] [authz_core:error] [pid 3480:tid 844] [client 192.168.1.33:51529] AH01630: client denied by server configuration: C:/dolibarr/www/
+"id" no se reconoce como un comando interno o externo,
+programa o archivo por lotes ejecutable.
+[Tue Nov 24 13:52:52.793903 2020] [mpm_winnt:notice] [pid 3976:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Nov 24 13:52:54.793903 2020] [mpm_winnt:notice] [pid 3480:tid 336] AH00364: Child: All worker threads have exited.
+[Tue Nov 24 13:52:54.856403 2020] [mpm_winnt:notice] [pid 3976:tid 400] AH00430: Parent: Child process 3480 exited successfully.
+[Tue Nov 24 14:13:56.315436 2020] [mpm_winnt:notice] [pid 1444:tid 400] AH00455: Apache/2.4.41 (Win64) PHP/7.3.12 configured -- resuming normal operations
+[Tue Nov 24 14:13:56.315436 2020] [mpm_winnt:notice] [pid 1444:tid 400] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Tue Nov 24 14:13:56.315436 2020] [core:notice] [pid 1444:tid 400] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.41\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.41'
+[Tue Nov 24 14:13:56.315436 2020] [mpm_winnt:notice] [pid 1444:tid 400] AH00418: Parent: Created child process 952
+[Tue Nov 24 14:13:56.746498 2020] [mpm_winnt:notice] [pid 952:tid 328] AH00354: Child: Starting 64 worker threads.
+[Tue Nov 24 14:16:22.993281 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:52881] AH01630: client denied by server configuration: C:/dolibarr/www/robots.txt
+[Tue Nov 24 14:16:23.007555 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:52881] AH01630: client denied by server configuration: C:/dolibarr/www/sitemap.xml
+[Tue Nov 24 14:28:51.119112 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52931] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:28:51.132343 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52931] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:28:51.132343 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52931] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:28:51.132343 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52931] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:28:51.132343 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52931] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:28:51.145573 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52931] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:44:29.641853 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52996] AH01630: client denied by server configuration: C:/dolibarr/www/robots.txt
+[Tue Nov 24 14:44:29.704353 2020] [authz_core:error] [pid 952:tid 844] [client 192.168.1.33:52996] AH01630: client denied by server configuration: C:/dolibarr/www/sitemap.xml
+[Tue Nov 24 14:45:43.068286 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/7932716501094460777.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.085131 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/core/8769886646086568653.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.101977 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/core/js/1411933276235289116.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.101977 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/includes/2777332680984281596.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.118823 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/includes/jquery/9007269657000635617.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.169359 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/includes/jquery/plugins/5030122741364699207.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.186205 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/includes/jquery/plugins/jcrop/887906734863835711.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/includes/jquery/plugins/jcrop/
+[Tue Nov 24 14:45:43.422043 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/support/5442596211053405954.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.438889 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/theme/3420996123036574752.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.624191 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/theme/eldy/1255641191542629154.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:45:43.624191 2020] [php7:error] [pid 952:tid 848] [client 192.168.1.33:53021] script 'C:/dolibarr/www/dolibarr/htdocs/user/5265212501376287291.php' not found or unable to stat, referer: http://192.168.1.60/dolibarr/
+[Tue Nov 24 14:59:49.625722 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53077] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:59:49.641347 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53077] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:59:49.641347 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53077] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:59:49.641347 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53077] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:59:49.641347 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53077] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 14:59:49.656972 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53077] AH01630: client denied by server configuration: C:/dolibarr/www/WEB-INF
+[Tue Nov 24 15:50:02.343910 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:53307] AH01630: client denied by server configuration: C:/dolibarr/www/, referer: http://192.168.1.60/dolibarr/user/passwordforgotten.php
+[Tue Nov 24 15:50:02.765785 2020] [authz_core:error] [pid 952:tid 852] [client 192.168.1.33:53308] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:50:35.515785 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53312] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:50:35.703285 2020] [authz_core:error] [pid 952:tid 852] [client 192.168.1.33:53314] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:50:35.937660 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53312] AH01630: client denied by server configuration: C:/dolibarr/www/, referer: http://192.168.1.60/dolibarr/index.php?mainmenu=home
+[Tue Nov 24 15:50:36.906410 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:53313] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:53:31.869932 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53333] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:53:31.916807 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:53334] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:53:32.073057 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53333] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:53:32.479307 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:53334] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 15:53:32.760557 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53337] AH01630: client denied by server configuration: C:/dolibarr/www/, referer: http://192.168.1.60/dolibarr/user/passwordforgotten.php
+[Tue Nov 24 15:53:32.885557 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:53334] AH01630: client denied by server configuration: C:/dolibarr/www/, referer: http://192.168.1.60/dolibarr/user/passwordforgotten.php?time=20201124204441
+[Tue Nov 24 15:53:33.291807 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:53337] AH01630: client denied by server configuration: C:/dolibarr/www/, referer: http://192.168.1.60/dolibarr/user/passwordforgotten.php?time=20201124204441
+[Tue Nov 24 17:41:25.796837 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:55012] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 17:49:13.628438 2020] [authz_core:error] [pid 952:tid 848] [client 192.168.1.33:55277] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 17:49:16.784688 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55278] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:49:16.878438 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55278] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:49:16.972188 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55278] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:49:17.065938 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55278] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:50:37.683040 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55371] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:50:37.864973 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55371] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:50:38.046906 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55371] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:50:38.274323 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:55371] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 17:51:56.929506 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:55410] AH01630: client denied by server configuration: C:/dolibarr/www/D
+[Tue Nov 24 17:51:57.020473 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:55410] AH01630: client denied by server configuration: C:/dolibarr/www/D
+[Tue Nov 24 17:51:57.126600 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:55410] AH01630: client denied by server configuration: C:/dolibarr/www/D
+[Tue Nov 24 17:51:57.232728 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:55410] AH01630: client denied by server configuration: C:/dolibarr/www/D
+[Tue Nov 24 17:52:55.953789 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:56316] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 18:47:00.951387 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:57067] AH01630: client denied by server configuration: C:/dolibarr/www/non_existant_web_link123511.htm
+[Tue Nov 24 18:47:04.201387 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57068] AH01630: client denied by server configuration: C:/dolibarr/www/PTConversionService
+[Tue Nov 24 18:47:04.295137 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57068] AH01630: client denied by server configuration: C:/dolibarr/www/PTConversionService
+[Tue Nov 24 18:47:04.388887 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57068] AH01630: client denied by server configuration: C:/dolibarr/www/PTConversionService
+[Tue Nov 24 18:47:04.482637 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57068] AH01630: client denied by server configuration: C:/dolibarr/www/PTConversionService
+[Tue Nov 24 18:48:06.310762 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57072] AH01630: client denied by server configuration: C:/dolibarr/www/edgehtml.dll
+[Tue Nov 24 18:48:06.420137 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57072] AH01630: client denied by server configuration: C:/dolibarr/www/edgehtml.dll
+[Tue Nov 24 18:48:06.545137 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57072] AH01630: client denied by server configuration: C:/dolibarr/www/edgehtml.dll
+[Tue Nov 24 18:48:06.654512 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57072] AH01630: client denied by server configuration: C:/dolibarr/www/edgehtml.dll
+[Tue Nov 24 18:49:09.623262 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57076] AH01630: client denied by server configuration: C:/dolibarr/www/XLVIEW.EXE
+[Tue Nov 24 18:49:09.717012 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57076] AH01630: client denied by server configuration: C:/dolibarr/www/XLVIEW.EXE
+[Tue Nov 24 18:49:09.795137 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57076] AH01630: client denied by server configuration: C:/dolibarr/www/XLVIEW.EXE
+[Tue Nov 24 18:49:09.888887 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57076] AH01630: client denied by server configuration: C:/dolibarr/www/XLVIEW.EXE
+[Tue Nov 24 18:51:30.873262 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57084] AH01630: client denied by server configuration: C:/dolibarr/www/zipfldr.dll
+[Tue Nov 24 18:51:30.967012 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57084] AH01630: client denied by server configuration: C:/dolibarr/www/zipfldr.dll
+[Tue Nov 24 18:51:31.045137 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57084] AH01630: client denied by server configuration: C:/dolibarr/www/zipfldr.dll
+[Tue Nov 24 18:51:31.154512 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57084] AH01630: client denied by server configuration: C:/dolibarr/www/zipfldr.dll
+[Tue Nov 24 18:52:38.393978 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57086] AH01630: client denied by server configuration: C:/dolibarr/www/Wsnmp32.dll
+[Tue Nov 24 18:52:38.500106 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57086] AH01630: client denied by server configuration: C:/dolibarr/www/Wsnmp32.dll
+[Tue Nov 24 18:52:38.591072 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57086] AH01630: client denied by server configuration: C:/dolibarr/www/Wsnmp32.dll
+[Tue Nov 24 18:52:38.682039 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57086] AH01630: client denied by server configuration: C:/dolibarr/www/Wsnmp32.dll
+[Tue Nov 24 18:55:15.501738 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57097] AH01630: client denied by server configuration: C:/dolibarr/www/al
+[Tue Nov 24 18:55:15.611113 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57097] AH01630: client denied by server configuration: C:/dolibarr/www/al
+[Tue Nov 24 18:55:15.704863 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57097] AH01630: client denied by server configuration: C:/dolibarr/www/al
+[Tue Nov 24 18:55:15.845488 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57097] AH01630: client denied by server configuration: C:/dolibarr/www/al
+[Tue Nov 24 18:56:44.487872 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57105] AH01630: client denied by server configuration: C:/dolibarr/www/Mf.dll
+[Tue Nov 24 18:56:44.612872 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57105] AH01630: client denied by server configuration: C:/dolibarr/www/Mf.dll
+[Tue Nov 24 18:56:44.737872 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57105] AH01630: client denied by server configuration: C:/dolibarr/www/Mf.dll
+[Tue Nov 24 18:56:44.862872 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57105] AH01630: client denied by server configuration: C:/dolibarr/www/Mf.dll
+[Tue Nov 24 18:59:38.192756 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57141] AH01630: client denied by server configuration: C:/dolibarr/www/wer.dll
+[Tue Nov 24 18:59:38.302131 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57141] AH01630: client denied by server configuration: C:/dolibarr/www/wer.dll
+[Tue Nov 24 18:59:38.395881 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57141] AH01630: client denied by server configuration: C:/dolibarr/www/wer.dll
+[Tue Nov 24 18:59:38.489631 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57141] AH01630: client denied by server configuration: C:/dolibarr/www/wer.dll
+[Tue Nov 24 19:00:40.911506 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57148] AH01630: client denied by server configuration: C:/dolibarr/www/comsvcs.dll
+[Tue Nov 24 19:00:41.005256 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57148] AH01630: client denied by server configuration: C:/dolibarr/www/comsvcs.dll
+[Tue Nov 24 19:00:41.099006 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57148] AH01630: client denied by server configuration: C:/dolibarr/www/comsvcs.dll
+[Tue Nov 24 19:00:41.224006 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57148] AH01630: client denied by server configuration: C:/dolibarr/www/comsvcs.dll
+[Tue Nov 24 19:03:32.536506 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57161] AH01630: client denied by server configuration: C:/dolibarr/www/mshtml.dll
+[Tue Nov 24 19:03:32.645881 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57161] AH01630: client denied by server configuration: C:/dolibarr/www/mshtml.dll
+[Tue Nov 24 19:03:32.739631 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57161] AH01630: client denied by server configuration: C:/dolibarr/www/mshtml.dll
+[Tue Nov 24 19:03:32.833381 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57161] AH01630: client denied by server configuration: C:/dolibarr/www/mshtml.dll
+[Tue Nov 24 19:05:29.428890 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57171] AH01630: client denied by server configuration: C:/dolibarr/www/VMWareService.exe
+[Tue Nov 24 19:05:29.569515 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57171] AH01630: client denied by server configuration: C:/dolibarr/www/VMWareService.exe
+[Tue Nov 24 19:05:29.694515 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57171] AH01630: client denied by server configuration: C:/dolibarr/www/VMWareService.exe
+[Tue Nov 24 19:05:29.819515 2020] [authz_core:error] [pid 952:tid 840] [client fe80::2050:3704:b524:a53:57171] AH01630: client denied by server configuration: C:/dolibarr/www/VMWareService.exe
+[Tue Nov 24 19:43:37.173735 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:57549] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 19:43:37.298735 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:57549] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 19:43:37.423735 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:57549] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 19:43:37.564360 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:57549] AH01630: client denied by server configuration: C:/dolibarr/www/Compartida
+[Tue Nov 24 20:07:21.002212 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:58739] AH01630: client denied by server configuration: C:/dolibarr/www/
+[Tue Nov 24 20:14:53.169774 2020] [authz_core:error] [pid 952:tid 840] [client 192.168.1.33:59084] AH01630: client denied by server configuration: C:/dolibarr/www/non_existant_web_link123511.htm
+[Wed Nov 25 06:26:06.293997 2020] [mpm_winnt:notice] [pid 1444:tid 400] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 25 06:26:08.293997 2020] [mpm_winnt:notice] [pid 952:tid 328] AH00364: Child: All worker threads have exited.
+[Wed Nov 25 06:26:08.372122 2020] [mpm_winnt:notice] [pid 1444:tid 400] AH00430: Parent: Child process 952 exited successfully.
+[Wed Nov 25 06:26:44.093750 2020] [mpm_winnt:notice] [pid 1456:tid 400] AH00455: Apache/2.4.41 (Win64) PHP/7.3.12 configured -- resuming normal operations
+[Wed Nov 25 06:26:44.093750 2020] [mpm_winnt:notice] [pid 1456:tid 400] AH00456: Apache Lounge VS16 Server built: Aug  9 2019 16:46:32
+[Wed Nov 25 06:26:44.093750 2020] [core:notice] [pid 1456:tid 400] AH00094: Command line: 'c:\\dolibarr\\bin\\apache\\apache2.4.41\\bin\\httpd.exe -d C:/dolibarr/bin/apache/apache2.4.41'
+[Wed Nov 25 06:26:44.093750 2020] [mpm_winnt:notice] [pid 1456:tid 400] AH00418: Parent: Created child process 948
+[Wed Nov 25 06:26:44.546875 2020] [mpm_winnt:notice] [pid 948:tid 328] AH00354: Child: Starting 64 worker threads.

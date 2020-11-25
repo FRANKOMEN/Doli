@@ -1,0 +1,121 @@
+InnoDB: using atomic writes.
+2020-11-24 12:10:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 12:10:53 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 12:10:53 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 12:10:53 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 12:10:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 12:10:53 0 [Note] InnoDB: Initializing buffer pool, total size = 15M, instances = 1, chunk size = 15M
+2020-11-24 12:10:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 12:10:53 0 [Note] InnoDB: Resizing redo log from 2*50331648 to 2*10485760 bytes; LSN=145950
+2020-11-24 12:10:54 0 [Note] InnoDB: Starting to delete and rewrite log files.
+2020-11-24 12:10:54 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 10485760 bytes
+2020-11-24 12:10:54 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 10485760 bytes
+2020-11-24 12:10:54 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 12:10:54 0 [Note] InnoDB: New log files created, LSN=145950
+2020-11-24 12:10:54 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 12:10:54 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 12:10:54 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 12:10:54 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 12:10:54 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 12:10:54 0 [Note] InnoDB: 10.4.10 started; log sequence number 145950; transaction id 21
+2020-11-24 12:10:54 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 12:10:54 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-24 12:10:54 0 [Note] Server socket created on IP: '::'.
+2020-11-24 12:10:54 0 [Note] InnoDB: Buffer pool(s) load completed at 201124 12:10:54
+2020-11-24 12:10:54 0 [Note] Reading of all Master_info entries succeeded
+2020-11-24 12:10:54 0 [Note] Added new Master_info '' to hash table
+2020-11-24 12:10:54 0 [Note] doliwampmysqld: ready for connections.
+Version: '10.4.10-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-11-24 12:10:56 8 [Warning] Access denied for user 'root'@'localhost' (using password: NO)
+2020-11-24 12:51:43 31 [Warning] Aborted connection 31 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 12:51:43 31 [Warning] Aborted connection 31 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 12:51:46 32 [Warning] Aborted connection 32 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 12:51:46 32 [Warning] Aborted connection 32 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 12:53:57 33 [Warning] Aborted connection 33 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 12:54:02 34 [Warning] Aborted connection 34 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 13:52:52 0 [Note] doliwampmysqld (initiated by: unknown): Normal shutdown
+2020-11-24 13:52:52 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-11-24 13:52:52 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-11-24 13:52:53 0 [Note] InnoDB: Starting shutdown...
+2020-11-24 13:52:53 0 [Note] InnoDB: Dumping buffer pool(s) to c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 13:52:53 0 [Note] InnoDB: Instance 0, restricted to 234 pages due to innodb_buf_pool_dump_pct=25
+2020-11-24 13:52:53 0 [Note] InnoDB: Buffer pool(s) dump completed at 201124 13:52:53
+2020-11-24 13:52:54 0 [Note] InnoDB: Shutdown completed; log sequence number 13609850; transaction id 11428
+2020-11-24 13:52:54 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-24 13:52:54 0 [Note] doliwampmysqld: Shutdown complete
+
+InnoDB: using atomic writes.
+2020-11-24 14:13:55 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 14:13:55 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 14:13:55 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 14:13:55 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 14:13:55 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 14:13:55 0 [Note] InnoDB: Initializing buffer pool, total size = 15M, instances = 1, chunk size = 15M
+2020-11-24 14:13:55 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 14:13:57 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 14:13:57 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 14:13:57 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 14:13:57 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 14:13:57 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 14:13:57 0 [Note] InnoDB: 10.4.10 started; log sequence number 13609850; transaction id 11430
+2020-11-24 14:13:57 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 14:13:57 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-24 14:13:57 0 [Note] Server socket created on IP: '::'.
+2020-11-24 14:13:57 0 [Note] Reading of all Master_info entries succeeded
+2020-11-24 14:13:57 0 [Note] Added new Master_info '' to hash table
+2020-11-24 14:13:57 0 [Note] doliwampmysqld: ready for connections.
+Version: '10.4.10-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution
+2020-11-24 14:13:57 0 [Note] InnoDB: Buffer pool(s) load completed at 201124 14:13:57
+2020-11-24 17:41:42 8062 [Warning] Aborted connection 8062 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 17:41:42 8062 [Warning] Aborted connection 8062 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 17:41:50 8063 [Warning] Aborted connection 8063 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 17:41:50 8063 [Warning] Aborted connection 8063 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 17:53:08 8064 [Warning] Aborted connection 8064 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 17:53:08 8064 [Warning] Aborted connection 8064 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 17:53:19 8065 [Warning] Aborted connection 8065 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 17:53:19 8065 [Warning] Aborted connection 8065 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 17:58:30 8066 [Warning] Aborted connection 8066 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 17:58:38 8067 [Warning] Aborted connection 8067 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 19:07:35 8068 [Warning] Aborted connection 8068 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 19:07:35 8068 [Warning] Aborted connection 8068 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 20:07:47 8069 [Warning] Aborted connection 8069 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 20:07:47 8069 [Warning] Aborted connection 8069 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 20:08:03 8070 [Warning] Aborted connection 8070 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 20:08:03 8070 [Warning] Aborted connection 8070 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 20:11:56 8071 [Warning] Aborted connection 8071 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 20:12:08 8072 [Warning] Aborted connection 8072 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-24 20:17:36 8073 [Warning] Aborted connection 8073 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (Got an error reading communication packets)
+2020-11-24 20:17:36 8073 [Warning] Aborted connection 8073 to db: 'unconnected' user: 'unauthenticated' host: 'DESKTOP-EH318D2' (This connection closed normally without authentication)
+2020-11-25  6:26:06 0 [Note] doliwampmysqld (initiated by: unknown): Normal shutdown
+2020-11-25  6:26:06 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-11-25  6:26:06 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-11-25  6:26:06 0 [Note] InnoDB: Starting shutdown...
+2020-11-25  6:26:06 0 [Note] InnoDB: Dumping buffer pool(s) to c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-25  6:26:06 0 [Note] InnoDB: Instance 0, restricted to 234 pages due to innodb_buf_pool_dump_pct=25
+2020-11-25  6:26:06 0 [Note] InnoDB: Buffer pool(s) dump completed at 201125  6:26:06
+2020-11-25  6:26:07 0 [Note] InnoDB: Shutdown completed; log sequence number 13609859; transaction id 11435
+2020-11-25  6:26:07 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-25  6:26:07 0 [Note] doliwampmysqld: Shutdown complete
+
+InnoDB: using atomic writes.
+2020-11-25  6:26:43 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-25  6:26:43 0 [Note] InnoDB: Uses event mutexes
+2020-11-25  6:26:43 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-25  6:26:43 0 [Note] InnoDB: Number of pools: 1
+2020-11-25  6:26:43 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-25  6:26:43 0 [Note] InnoDB: Initializing buffer pool, total size = 15M, instances = 1, chunk size = 15M
+2020-11-25  6:26:43 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-25  6:26:44 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-25  6:26:44 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-25  6:26:44 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-25  6:26:44 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-25  6:26:44 0 [Note] InnoDB: Waiting for purge to start
+2020-11-25  6:26:44 0 [Note] InnoDB: 10.4.10 started; log sequence number 13609859; transaction id 11430
+2020-11-25  6:26:44 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-25  6:26:44 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-25  6:26:44 0 [Note] Server socket created on IP: '::'.
+2020-11-25  6:26:45 0 [Note] InnoDB: Buffer pool(s) load completed at 201125  6:26:45
+2020-11-25  6:26:45 0 [Note] Reading of all Master_info entries succeeded
+2020-11-25  6:26:45 0 [Note] Added new Master_info '' to hash table
+2020-11-25  6:26:45 0 [Note] doliwampmysqld: ready for connections.
+Version: '10.4.10-MariaDB'  socket: ''  port: 3306  mariadb.org binary distribution

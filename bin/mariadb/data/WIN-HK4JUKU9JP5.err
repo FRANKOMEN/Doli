@@ -1,0 +1,164 @@
+InnoDB: using atomic writes.
+2020-11-24 10:42:18 0 [Note] InnoDB: The first innodb_system data file 'ibdata1' did not exist. A new tablespace will be created!
+2020-11-24 10:42:18 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 10:42:18 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 10:42:18 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 10:42:18 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 10:42:18 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 10:42:18 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-24 10:42:18 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 10:42:18 0 [Note] InnoDB: Setting file '.\ibdata1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 10:42:18 0 [Note] InnoDB: File '.\ibdata1' size is now 12 MB.
+2020-11-24 10:42:18 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2020-11-24 10:42:18 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2020-11-24 10:42:18 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 10:42:18 0 [Note] InnoDB: New log files created, LSN=17992
+2020-11-24 10:42:18 0 [Note] InnoDB: Doublewrite buffer not found: creating new
+2020-11-24 10:42:18 0 [Note] InnoDB: Doublewrite buffer created
+2020-11-24 10:42:18 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 10:42:18 0 [Note] InnoDB: Creating foreign key constraint system tables.
+2020-11-24 10:42:18 0 [Note] InnoDB: Creating tablespace and datafile system tables.
+2020-11-24 10:42:18 0 [Note] InnoDB: Creating sys_virtual system tables.
+2020-11-24 10:42:18 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 10:42:18 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 10:42:18 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 10:42:18 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 10:42:18 0 [Note] InnoDB: 10.4.10 started; log sequence number 0; transaction id 7
+2020-11-24 10:42:18 0 [Note] Plugin 'FEEDBACK' is disabled.
+InnoDB: using atomic writes.
+2020-11-24 10:46:07 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 10:46:07 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 10:46:07 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 10:46:07 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 10:46:07 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 10:46:07 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-24 10:46:07 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 10:46:08 0 [Note] InnoDB: Resizing redo log from 2*10485760 to 2*50331648 bytes; LSN=140327
+2020-11-24 10:46:08 0 [Note] InnoDB: Starting to delete and rewrite log files.
+2020-11-24 10:46:08 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2020-11-24 10:46:08 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2020-11-24 10:46:08 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 10:46:08 0 [Note] InnoDB: New log files created, LSN=140327
+2020-11-24 10:46:08 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 10:46:08 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 10:46:08 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 10:46:08 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 10:46:08 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 10:46:08 0 [Note] InnoDB: 10.4.10 started; log sequence number 140327; transaction id 21
+2020-11-24 10:46:08 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 10:46:08 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-24 10:46:08 0 [Note] InnoDB: Buffer pool(s) load completed at 201124 10:46:08
+InnoDB: using atomic writes.
+2020-11-24 10:53:20 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 10:53:20 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 10:53:20 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 10:53:20 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 10:53:20 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 10:53:20 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-24 10:53:20 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 10:53:20 0 [Note] InnoDB: Resizing redo log from 2*10485760 to 2*50331648 bytes; LSN=141342
+2020-11-24 10:53:20 0 [Note] InnoDB: Starting to delete and rewrite log files.
+2020-11-24 10:53:20 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2020-11-24 10:53:20 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2020-11-24 10:53:20 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 10:53:20 0 [Note] InnoDB: New log files created, LSN=141342
+2020-11-24 10:53:20 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 10:53:20 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 10:53:20 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 10:53:20 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 10:53:20 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 10:53:21 0 [Note] InnoDB: 10.4.10 started; log sequence number 141342; transaction id 21
+2020-11-24 10:53:21 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 10:53:21 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-24 10:53:21 0 [Note] InnoDB: Buffer pool(s) load completed at 201124 10:53:21
+InnoDB: using atomic writes.
+2020-11-24 11:13:53 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 11:13:53 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 11:13:53 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 11:13:53 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 11:13:53 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 11:13:53 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-24 11:13:53 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 11:13:53 0 [Note] InnoDB: Resizing redo log from 2*10485760 to 2*50331648 bytes; LSN=142366
+2020-11-24 11:13:53 0 [Note] InnoDB: Starting to delete and rewrite log files.
+2020-11-24 11:13:53 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2020-11-24 11:13:53 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2020-11-24 11:13:53 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 11:13:53 0 [Note] InnoDB: New log files created, LSN=142366
+2020-11-24 11:13:53 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 11:13:53 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 11:13:53 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 11:13:53 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 11:13:53 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 11:13:53 0 [Note] InnoDB: 10.4.10 started; log sequence number 142366; transaction id 21
+2020-11-24 11:13:53 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 11:13:53 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-24 11:13:53 0 [Note] InnoDB: Buffer pool(s) load completed at 201124 11:13:53
+InnoDB: using atomic writes.
+2020-11-24 11:20:26 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 11:20:26 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 11:20:26 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 11:20:26 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 11:20:26 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 11:20:26 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-24 11:20:26 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 11:20:26 0 [Note] InnoDB: Resizing redo log from 2*10485760 to 2*50331648 bytes; LSN=143390
+2020-11-24 11:20:26 0 [Note] InnoDB: Starting to delete and rewrite log files.
+2020-11-24 11:20:26 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2020-11-24 11:20:26 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2020-11-24 11:20:26 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 11:20:26 0 [Note] InnoDB: New log files created, LSN=143390
+2020-11-24 11:20:26 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 11:20:26 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 11:20:26 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 11:20:26 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 11:20:26 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 11:20:26 0 [Note] InnoDB: 10.4.10 started; log sequence number 143390; transaction id 21
+2020-11-24 11:20:26 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 11:20:26 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-24 11:20:26 0 [Note] InnoDB: Buffer pool(s) load completed at 201124 11:20:26
+InnoDB: using atomic writes.
+2020-11-24 11:21:04 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 11:21:04 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 11:21:04 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 11:21:04 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 11:21:04 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 11:21:04 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-24 11:21:04 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 11:21:04 0 [Note] InnoDB: Resizing redo log from 2*10485760 to 2*50331648 bytes; LSN=144414
+2020-11-24 11:21:04 0 [Note] InnoDB: Starting to delete and rewrite log files.
+2020-11-24 11:21:04 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2020-11-24 11:21:04 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2020-11-24 11:21:04 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 11:21:04 0 [Note] InnoDB: New log files created, LSN=144414
+2020-11-24 11:21:04 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 11:21:04 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 11:21:04 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 11:21:04 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 11:21:04 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 11:21:04 0 [Note] InnoDB: 10.4.10 started; log sequence number 144414; transaction id 21
+2020-11-24 11:21:04 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 11:21:04 0 [Note] Plugin 'FEEDBACK' is disabled.
+InnoDB: using atomic writes.
+2020-11-24 12:10:49 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-24 12:10:49 0 [Note] InnoDB: Uses event mutexes
+2020-11-24 12:10:49 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-24 12:10:49 0 [Note] InnoDB: Number of pools: 1
+2020-11-24 12:10:49 0 [Note] InnoDB: Using SSE2 crc32 instructions
+2020-11-24 12:10:49 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-24 12:10:49 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-24 12:10:49 0 [Note] InnoDB: Resizing redo log from 2*10485760 to 2*50331648 bytes; LSN=145447
+2020-11-24 12:10:49 0 [Note] InnoDB: Starting to delete and rewrite log files.
+2020-11-24 12:10:49 0 [Note] InnoDB: Setting log file .\ib_logfile101 size to 50331648 bytes
+2020-11-24 12:10:49 0 [Note] InnoDB: Setting log file .\ib_logfile1 size to 50331648 bytes
+2020-11-24 12:10:49 0 [Note] InnoDB: Renaming log file .\ib_logfile101 to .\ib_logfile0
+2020-11-24 12:10:49 0 [Note] InnoDB: New log files created, LSN=145447
+2020-11-24 12:10:49 0 [Note] InnoDB: 128 out of 128 rollback segments are active.
+2020-11-24 12:10:49 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-24 12:10:49 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-24 12:10:49 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-24 12:10:49 0 [Note] InnoDB: Waiting for purge to start
+2020-11-24 12:10:49 0 [Note] InnoDB: 10.4.10 started; log sequence number 145447; transaction id 21
+2020-11-24 12:10:49 0 [Note] InnoDB: Loading buffer pool(s) from c:\dolibarr\bin\mariadb\data\ib_buffer_pool
+2020-11-24 12:10:49 0 [Note] Plugin 'FEEDBACK' is disabled.
+2020-11-24 12:10:49 0 [Note] InnoDB: Buffer pool(s) load completed at 201124 12:10:49
